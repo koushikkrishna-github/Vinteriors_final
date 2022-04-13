@@ -4,6 +4,12 @@
     --light: #F8F8F8;
     --dark: #252525;
 }
+button{
+    background-color: #252525;  
+    border:5px rgb(56, 56, 86) double;       
+    border-radius: 25px;  
+    color: #FFFFFF;
+}
 
 h1,
 h2,
@@ -55,7 +61,7 @@ h6,
 
 /*** Button ***/
 .btn {
-    font-weight: 500;
+    font-weight: 400;
     transition: .5s;
 }
 
