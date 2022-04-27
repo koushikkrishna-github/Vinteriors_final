@@ -3044,7 +3044,7 @@ textarea.form-control.is-invalid {
     display: inline-block;
     font-weight: 400;
     line-height: 1.5;
-    color: #c20606;
+    color: #B78D65;
     text-align: center;
     vertical-align: middle;
     cursor: pointer;
@@ -3082,13 +3082,13 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #000;
-    background-color: #c20606;
+    background-color: #B78D65;
     border-color: #B78D65
 }
 
 .btn-primary:hover {
     color: #000;
-    background-color: #c20606;
+    background-color: #B78D65;
     border-color: #be9874
 }
 
@@ -3106,7 +3106,7 @@ fieldset:disabled .btn {
 .btn-primary.active,
 .show>.btn-primary.dropdown-toggle {
     color: #000;
-    background-color: #c20606;
+    background-color: #B78D65;
     border-color: #be9874
 }
 
@@ -3127,7 +3127,7 @@ fieldset:disabled .btn {
 
 .btn-secondary {
     color: #fff;
-    background-color: #c20606;
+    background-color: #B78D65;
     border-color: #6c757d
 }
 
@@ -7795,6 +7795,7 @@ fieldset:disabled .btn {
 
 .mb-4 {
     margin-bottom: 1.5rem !important
+    
 }
 
 .mb-5 {
@@ -8288,7 +8289,7 @@ fieldset:disabled .btn {
     color: #B78D65 !important
 }
 .text-primary1 {
-    color: #c20606 !important
+    color: #B78D65 !important
 }
 
 .text-secondary {
